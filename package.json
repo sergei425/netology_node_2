@@ -1,12 +1,23 @@
 {
   "name": "homework_2",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergei425/netology_node_2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sergei425/netology_node_2/issues"
+  },
+  "homepage": "https://github.com/sergei425/netology_node_2#readme",
+  "description": "",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
